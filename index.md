@@ -1,4 +1,4 @@
-![The sky as clear as my head.](/sky.jpg)
+![The sky as clear as my head.](sky.jpg)
 
 
 # Overview
